@@ -2,11 +2,18 @@
     "posts": [
       {
         "id": 1,
-        "title": "hello"
+        "title": "hello",
+        "language": "us"
       },
       {
         "id": 2,
-        "title": "hey"
+        "title": "hey",
+        "language": "us"
+      },
+      {
+        "id": 3,
+        "title": "hola",
+        "language": "es"
       }
     ],
     "profile": {
